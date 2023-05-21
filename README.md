@@ -1,1 +1,1 @@
-# basic_2
+basics about list slicing,strings,comments
